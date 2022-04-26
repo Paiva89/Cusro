@@ -1,0 +1,22 @@
+### Listar
+
+- Windows (dir)
+- Unix (ls)
+
+### Navegar entre pastas
+
+- Windows (cd/)
+- Unix (ls)
+
+### Volta para pasta anterior
+
+- cd ..
+
+### Limpar a tela
+
+- clear; Ctrl+l
+
+### Para completar o nome de um arquivo ou pasta
+
+- Iniciar a palavra + Tab
+
